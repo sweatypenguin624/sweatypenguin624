@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=sweatypenguin624&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sweatypenguin624&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sweatypenguin624&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sweatypenguin624)
 
 
 ### ✍️ Random Dev Quote
